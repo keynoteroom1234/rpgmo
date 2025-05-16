@@ -1,0 +1,5 @@
+nohup: ignoring input
+127.0.0.1 - - [15/May/2025 11:35:29] "GET /index.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2025 11:35:30] "GET /css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2025 11:35:30] "GET /js/game_logic.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2025 11:35:30] "GET /js/ui_handler.js HTTP/1.1" 200 -
